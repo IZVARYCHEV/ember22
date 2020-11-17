@@ -1,5 +1,5 @@
-import Application from 'emberjs/app';
-import config from 'emberjs/config/environment';
+import Application from 'books/app';
+import config from 'books/config/environment';
 import { setApplication } from '@ember/test-helpers';
 import { start } from 'ember-qunit';
 
